@@ -1,0 +1,78 @@
+[Thread] Error extracting NOAA-20 data (ct157-F118-20, profile 62): <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+</body>
+</html>
+
+[Thread] Error extracting NOAA-21 data (ct157-F118-20, profile 73): <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+</body>
+</html>
+
+[Thread] Error extracting SUOMI-NPP data (ct157-F118-20, profile 71): <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+</body>
+</html>
+
+[Thread] Error extracting AQUA data (ct157-F118-20, profile 62): <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+</body>
+</html>
+
+[Thread] Error extracting SUOMI-NPP data (ct157-F118-20, profile 73): <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+</body>
+</html>
+
+[Thread] Error extracting NOAA-20 data (ct157-F118-20, profile 71): <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+</body>
+</html>
+
+[Thread] Error extracting NOAA-21 data (ct157-F118-20, profile 74): <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+</body>
+</html>
+
+[Thread] Error extracting NOAA-20 data (ct157-F118-20, profile 73): <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+</body>
+</html>
+
+[Thread] Error extracting NOAA-20 data (ct157-F120-20, profile 81): 500, message='Internal Server Error', url='https://dwgofd1fffpxv.cloudfront.net/s3-60d27a6eaf8c854e8c64973f295212af/ob-cumulus-prod-public.s3.us-west-2.amazonaws.com/JPSS1_VIIRS.20200227T125400.L2.OC.nc?A-userid=jweis&backend_params=4ODeA4z4kUWX09/9rZ9URw==.ueAwVDkcUdauCxT3vzQdrdjB2dwmTDD6hNAXvTU6w2IuDvhudPk4CG9GvuMjhpd8ApAYIJxtJW/mknTaS2Elq6mOkuK0tgPH9J1x5AGTIqgIbQOxNy4QEC0ONkx3jSg6QkNliCFBnycUKdmluOcSWNLHodJ9P/NJ/w3MTJJNQAXs145ee86KX4WAl9wRRYaqUrNiRv9vVhttuYVOJJwi0Ix6BnzeLKo73rHyEgoTftTlbtEflOP56qsleOFGsBKCUWUcTuTixv9Te1KeakkD9+1c2J9rC0riYZ4wgU9czY9eGUBklFte/BfNJFX/mLi1JMCnGrEgdp6UqdomQSVLxjYIeNf4CP1v8JHrtUbDMzmEevnyS9gFVwYpGWltGEDM0vFsjv8ZI9RnE6JK04GkCHTi9QpwszWmBSL5GFhUkm4toxZYKm8QmEBlslLiSwYxpCek0shnhN5llVrmRZDphnFQEr105Qa3JbYQ4UpthqRvr2FBdQGGa9dymJpU0cY3n8xfzlx1OanGEBsaorItXZEEwNV0iByI+GeyMLA7ALF6k3C4u5WLF1DxUbNok8QNj2wAOvHpt6HmAVTLzmd+GuSjd0CZ/rVMs+nDGETRcv/6ttEQF9unAyotAdkONhKnQot7aU/RK8zZWYQOkcPfPQYvfBib+bHwLKD1r+tGnBNM1YM130S9TurvIgC19zMhLpP32ItgeowYg0UgwvJtMD/F0grJDiEcrmbkxALW/fFfdAFhN5LFjVsBF9Kbwpwu9jbzynsB1knWp1vjn4wzGy8aVU6SU+m58Z0hX0oqDmTnhsaxSiBq0BIiAlc9Z0uwZZ4efK80ngVm9jLZCVgln7M0w3qdPyUwpNYTudU9BdpMWBJJ1N1LPjUJOtab5bcWiJr1xbNhwDcbn10OhdYZyq2Pv2TBhLo9VeB8p8AoxMalNl9XH+XD9eDrj94l247TJ2uXL2J3NywB8YZvetJ9BXrewPjLvusROcjFlKaFuwa5rO1RPJNqRXSanCh0EAp8e2d9Omi4epJc1ynzg0z39n2xk9gN6YvqaAXnUa8OEpF3pRlauP9E3jGUEHJW1ukOodDmramtDb9DqQGCDg9/pMXLD3EuO08Mm6fgrkwNRuyR4ru+A6QVAV01YS3XVHbw0RobQJpW796PzxybeqrvhrRdO7Qwm+jsRxkjBorYaM2Jz8bQVTXlCWX0BcfZGmQR/xptkc/vWxMXvPA+25AlxeGbaJHKDm+qkz1Cu8mPQ9GT+w9z2iRjVE5p7SGKHM7tw/uQKKWCunHlV2IWMylf8cRJXyZzX9lZ55WRLAeAc5IaNKhynHrptb9X6tBw4dN2tdFc0bx1klejpzNjdl1phW4rSSth4XLZhrM1UXu56eWoyHunilqyZa/xSywcTquxTJoDHYegdsLlPKwetCP/yWYXofp62KNfkQG/ZaF7wMDJMtf1op6NHZefQm8aiM85P0xBeuMGYNhG9BMCTGlHRpSvO6yxtGMYc9YZLwpiYRPvLwy2hl62z60suUiumzUe&Expires=1764375735&Signature=EAQ9YCcByij~jFXGpN7HcMFt8VprAi79iSsKdOp09buR4LaCu8rHgcONCDF7mEXHKslN4tbVnABcWxguaNIzciiOQRv~utM8iqVWUCob~fdvmP~94XBUSqnvwuuUNX94oAqggDZn2v-WGN5T1d2f8DAPEsZZyqk34YE94UtKUeH-xOlB0yjNcAC02ibBaliyOD4LovX5ckAGmXu-QbmWQU0sr9TXlg~YBsay4nhrYu-Ppzyz6MZxtoMQGjs572Zsj0ecyYA4qFs77AfFeZp~won~vdFUaj2LwwFbHeu36r9J1rrdc6xRkXl8sba~EwAXC5pNGmmZ1GCQaEPKvj9nkA__&Key-Pair-Id=K2CJPKPBUPIOZN'
+
+[31m    [Thread] Error extracting AQUA data (ct160-338-20-N1, profile 132): {"errors":["An Internal Error has occurred."]}[0m
+
+[31m    [Thread] Error extracting NOAA-21 data (ct160-338-20-N1, profile 143): {"errors":["An Internal Error has occurred."]}[0m
+
+[31m    [Thread] Error extracting NOAA-20 data (ct160-338-20-N1, profile 140): {"errors":["An Internal Error has occurred."]}[0m
+
+[31m    [Thread] Error extracting NOAA-20 data (ct160-338-20-N1, profile 138): {"errors":["An Internal Error has occurred."]}[0m
+
+[31m    [Thread] Error extracting AQUA data (ct160-338-20-N1, profile 137): {"errors":["An Internal Error has occurred."]}[0m
+
+[31m    [Thread] Error extracting AQUA data (ct160-338-20-N1, profile 140): {"errors":["An Internal Error has occurred."]}[0m
+
+[31m    [Thread] Error extracting NOAA-21 data (ct160-338-20-N1, profile 148): {"errors":["An Internal Error has occurred."]}[0m
+
+[31m    [Thread] Error extracting SUOMI-NPP data (ct160-338-20-N1, profile 148): {"errors":["An Internal Error has occurred."]}[0m
+
+[31m    [Thread] Error extracting NOAA-20 data (ct160-338-20-N1, profile 148): {"errors":["An Internal Error has occurred."]}[0m
+
+[31m    [Thread] Error extracting AQUA data (ct160-341-20, profile 329): 500, message='Internal Server Error', url='https://dwgofd1fffpxv.cloudfront.net/s3-60d27a6eaf8c854e8c64973f295212af/ob-cumulus-prod-public.s3.us-west-2.amazonaws.com/AQUA_MODIS.20210402T095501.L2.OC.nc?A-userid=jweis&backend_params=/scylr7eleYDYOqm97//Uw==.qwacQoJtAGxXu0OfQmeWknHJUuuuDKEvDC4hyH+IYzvzLnfiY7fLgNOP4mvlIkEFTrJKYpz4n6samK1fPnCCJa5LlN7WQZhODpQ+7q9jti7xx/JDOaTro5M9GAsMG1kQCfbxEtHR0iMrPKel7B55jTEChj9z1CIK9EsqVNIODNuzan2s85vjStKDRURM0RZjCl55/6ibt1ynUHHlsi1C2azUYZmOEWMuZ+/15zLjl6pwOpK/L2qSE3Scpjqu05i7V+DWfXepIpn2DUzy/4ldEqnjT4gG/3jtag7FDXRJeaAp9UwNrKFKy6ufWynVVNv/xLbJXKPeLXuHpvsFYjje0rrAgc4WD3ZpWbD2Zo/jY2JXIcfOjgmBar2Po0OkoZtZjIt1pVDURsKh5sCzIOiqdhH1mLsqGuTTX6OtnL5M53vNSH7s+ttOmdvOmy7Xcw7tEicmsa5rLNcmQYlnChBoBIph43tRWRlU5RHxC3wPp7Ut70z8yhTXpUf9k9ryzCwvb1dnUJqRUDLgYbzdMn2a07BVdx7fadDby01blseFtjQd0eGKQpfg6/dn+sRnTjpiHeonSkuwF25GXfJXWTLIhEXaDjYqVxsnVf1mlxT6GITgEbtUaWTyUsuVCh0AGixIhSvXagrE9loPViY4LV/1XN0YBpHSDFa3AAgTKKoduFRApDGMRM6wYELEW7ZeW1BXw3+bJrViA/VeXhbV9x79bwsHECryY2d5/wAY/4JZrLBXfZtuan4duqn5EDXJ5JZFOzWpkvxjIE9cdtcdoO2/iDiR3A1GlSrV+MWO9fliLlkL2zwO+r0x+J+9hAMxQFxeMvHZbRMQbh+CgQxntfeoaEK//luMuMlfh0kPIbtU90nB7WhBDPnJi7trZIYJTMHP1Fl6rZFMqO79mt31z4E9ScsSYdl7ki7rYA3d9O7zRmXfHtZhJijghqNvEfWqjzOswaw5Md6pB+P9PyUhtzembXTtqBOMjOqRcaimBQ0K8ATAJCZbCK5yQ5F2K4OBqXB6StGv7UjCWpjcOkK98c5wxZLU1BFCtfQ3hrZwyfBL6XHTj7od+58DgHhhQfKDyMou/wPA1JASCkfXWt9FDm8mULNW6/4PJKTUzyv1Vpr9d6dMMyxiZ6p2EX02hMQfK5kIMOmX5JixV69hhTGZhfkQuBSSQUBH4U41RKVrJiOc+M6CpsRx6FC6l/iZsFPD+u2ocArSgRoMDFYgI2XV5pHyAyiWjvtsquzoFG3FtelJuYTCFowUTk9DaGK6HCAF31ILhgl/qC4mGovgRj1hfAVaGN9uYiRNYivw0wkmefemhWXEYIqdfA4PKCj6dVh8v957y2AbTBN1MYmzpppjOZD4yVKob/1F9bbqDfoIv+NO9D6Uh+GQSjdY7clrhqwfVKeG4y/1OkLy/CWdLOxZI+O9BjsQ+klUaMS5/ZIXW2JLwYujutDtNH9JNZB09LyiyVd1LybK/P3S94mnx3PezFOPjw==&Expires=1764484875&Signature=PIA7zStuTeaINfaJNBp8lYzmpfrX8Vj4bNMI23xa-lwSNe48n8xOSI639k0v0IMTw4~1Cl3v04Xq2sub6hi9sQmdBWrN~Dl7bhQ9Pfy911iVEjIMJ7s8tPFoZv3E9wmHEXYrzZSjVSJ8yJewupzPb~3UIZh33-VEEuZ2k~y~ARnsOic6bWWFy9N4-f6KCIMhuIzTdOBKpPkstMfdaEZ0bSzxVUUd2h5371KKRSTF6yUxyeiVLzTICJgM4cv4RBXfpqZZxqNEJJPP8fBybpHv~UlSY4C5GATkUEfV7U6R0yOwpHTHRVS4o0oeK-ddBuTlSSnbtNYZ20lnN22eqhEUlA__&Key-Pair-Id=K2CJPKPBUPIOZN'[0m
+
